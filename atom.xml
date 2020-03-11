@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelwearspants.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-11T09:03:26.288Z</updated>
+    <title>佟桐瞳</title>
+    <updated>2020-03-11T09:36:48.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelwearspants.github.io"/>
     <link rel="self" href="https://angelwearspants.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>这位美丽的折磨人的女俘虏坐在故乡的打麦场上
+在月光下使村里的二流子如痴如醉</subtitle>
     <logo>https://angelwearspants.github.io/images/avatar.png</logo>
     <icon>https://angelwearspants.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 佟桐瞳</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://angelwearspants.github.io/post/hello-gridea/</id>
