@@ -2,12 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://angelwearspants.github.io</id>
     <title>佟桐瞳</title>
-    <updated>2020-03-11T11:11:22.602Z</updated>
+    <updated>2020-03-11T11:56:19.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://angelwearspants.github.io"/>
     <link rel="self" href="https://angelwearspants.github.io/atom.xml"/>
-    <subtitle>&lt;p&gt;她走来&lt;/p&gt;&lt;p&gt;断断续续地走来&lt;/p&gt;&lt;p&gt;洁净的脚印&lt;/p&gt;&lt;p&gt;沾满清凉的露水&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</subtitle>
+    <subtitle>&lt;p&gt;日光其实很强&lt;/p&gt;&lt;p&gt;一种万物生长的鞭子和血 &lt;/p&gt;</subtitle>
     <logo>https://angelwearspants.github.io/images/avatar.png</logo>
     <icon>https://angelwearspants.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 佟桐瞳</rights>
+    <entry>
+        <title type="html"><![CDATA[佟桐瞳测试test]]></title>
+        <id>https://angelwearspants.github.io/post/tong-tong-tong-ce-shi-test/</id>
+        <link href="https://angelwearspants.github.io/post/tong-tong-tong-ce-shi-test/">
+        </link>
+        <updated>2020-03-11T11:55:51.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
 </feed>
